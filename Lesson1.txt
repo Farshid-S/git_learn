@@ -1,1 +1,2 @@
 Push - from local to Github
+Pull - from Github to local
